@@ -1,0 +1,17 @@
+*.pyc
+*.pyd
+*.pyo
+*.swp
+demodocus.egg-info
+demodocus/build
+demodocus/__pycache__
+bak
+build
+dist
+docs/build
+tmp
+
+# service scripts
+zzz_*.py
+zzz_*.sh
+
